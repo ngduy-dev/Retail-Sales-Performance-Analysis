@@ -78,6 +78,6 @@ Tôi đã thử nghiệm 4 mô hình khác nhau để dự báo doanh số bán 
 ---
 
 ## 🚀 Clone repo:
-    ```bash
-    git clone https://github.com/ngduy-dev/Retail-Sales-Performance-Analysis.git
-    ```
+```bash
+git clone https://github.com/ngduy-dev/Retail-Sales-Performance-Analysis.git
+
